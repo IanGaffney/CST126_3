@@ -1,6 +1,6 @@
 # CST126_3 - Author Author
 
-**Class ID:** <Your ID here>
+**Class ID:** Cottonee
 
 **Assignement ID:** CST126_3
 

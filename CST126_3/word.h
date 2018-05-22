@@ -10,6 +10,7 @@ public:
 	int getCount() { return m_count; }
 	void setWord(std::string word) { m_word = word; }
 	void incrementCount() { m_count++; }
+	void print();
 	
 private:
 	std::string m_word;
