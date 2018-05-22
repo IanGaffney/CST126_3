@@ -1,4 +1,6 @@
 // word.h
+#ifndef WORD_H
+#define WORD_H
 #include "stdafx.h"
 #include <string>
 
@@ -17,3 +19,4 @@ private:
 	int m_count;
 
 };
+#endif /* WORD_H */
